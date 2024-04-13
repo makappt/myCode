@@ -8,6 +8,11 @@ project(spdlog)
 set(CMAKE_CXX_STANDARD 17)
 
 find_package(spdlog CONFIG REQUIRED)
+message(STATUS "spdlog_FOUND = ${spdlog_FOUND}")
+message(STATUS "spdlog_VERSION = ${spdlog_VERSION}")
+message(STATUS "spdlog_DIR = ${spdlog_DIR}")
+message(STATUS "spdlog_INCLUDE_DIRS = ${spdlog_INCLUDE_DIRS}")
+message(STATUS "spdlog_LIBRARIES = ${spdlog_LIBRARIES}")
 
 add_executable(spdlog main.cpp)
 
