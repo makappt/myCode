@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/app",
+					"jsonFile" : "directory-src.app-Debug-de77eec203e76141027b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/app",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "src/library",
+					"jsonFile" : "directory-src.library-Debug-8767ae9f14c1ac9a4fad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/library",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "MultCmake",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MultCmake::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MultCmake-Debug-0654b401504a81b8f171.json",
+					"name" : "MultCmake",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MultCmake_app::@ff93792cf40911dae1b8",
+					"jsonFile" : "target-MultCmake_app-Debug-ab3b1c85e8897226b353.json",
+					"name" : "MultCmake_app",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "MultCmake_library::@07a51f879e5ec2b49499",
+					"jsonFile" : "target-MultCmake_library-Debug-c6f4298fa21482e9bd29.json",
+					"name" : "MultCmake_library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MultCmake_src::@145eef247bfb46b6828c",
+					"jsonFile" : "target-MultCmake_src-Debug-05d3e3d0bdc1d095b5cd.json",
+					"name" : "MultCmake_src",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug",
+		"source" : "D:/a-mycode/c++/clion/code/MultCmake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

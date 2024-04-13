@@ -1,0 +1,7 @@
+D:\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\a-mycode\c++\clion\code\MultCmake -B D:\a-mycode\c++\clion\code\MultCmake\cmake-build-debug
+-- Configuring done (0.0s)
+CMake Error at src/CMakeLists.txt:6 (add_library):
+  No SOURCES given to target: MultCmake_src
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

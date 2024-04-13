@@ -1,0 +1,8 @@
+//
+// Created by ZJZ on 2024-04-13.
+//
+
+#ifndef MULTCMAKE_SRC_LIBRARY_LIBRARY_H
+#define MULTCMAKE_SRC_LIBRARY_LIBRARY_H
+void printlibray();
+#endif //MULTCMAKE_SRC_LIBRARY_LIBRARY_H

@@ -1,0 +1,12 @@
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/CMakeFiles/MultCmake.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/CMakeFiles/MultCmake_src.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/app/CMakeFiles/MultCmake_app.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/app/CMakeFiles/edit_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/app/CMakeFiles/rebuild_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/library/CMakeFiles/MultCmake_library.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/library/CMakeFiles/edit_cache.dir
+D:/a-mycode/c++/clion/code/MultCmake/cmake-build-debug/src/library/CMakeFiles/rebuild_cache.dir

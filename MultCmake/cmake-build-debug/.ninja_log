@@ -1,0 +1,10 @@
+# ninja log v5
+3	717	7346891396063738	src/library/CMakeFiles/MultCmake_library.dir/library.cpp.obj	f6d06845f21ddcce
+2	707	7346894298156268	CMakeFiles/MultCmake.dir/src/main.cpp.obj	155ffcc07fe5aeca
+12	539	7346889777537002	src/app/CMakeFiles/MultCmake_app.dir/app.cpp.obj	fa186e078766b474
+4	246	7346903640338650	MultCmake.exe	b036eed93aa53f6b
+12	148	7346891265961739	src/app/MultCmake_app.lib	3bf5e284f3d4abd2
+719	796	7346891396868103	src/library/MultCmake_library.lib	4bf2eecca404c75d
+4	100	7346894320740962	src/MultCmake_src.lib	12869e2e9197a425
+1	83	7346963597762755	build.ninja	4ceb0310d36074d1
+1	81	7346963597762755	build.ninja	4ceb0310d36074d1
